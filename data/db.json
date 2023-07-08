@@ -1,0 +1,16 @@
+{
+    "blogs": [
+      {
+        "title": "Qwerty",
+        "body": "lorem ipsum do re mi la fa so la ti do",
+        "author": "mario",
+        "id": 1
+      },
+      {
+        "title": "Zxccvnm",
+        "body": "asdfghjklggcntyimn",
+        "author": "Elio",
+        "id": 2
+      }
+    ]
+  }
